@@ -1,1 +1,1 @@
-exeter without logger
+exeter 24/7
