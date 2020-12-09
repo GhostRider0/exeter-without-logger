@@ -3194,15 +3194,4 @@ async def nitro(ctx):
 
 if __name__ == '__main__':
     Init()
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
